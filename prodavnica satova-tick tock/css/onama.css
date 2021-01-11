@@ -1,0 +1,38 @@
+
+body{
+  height: 100%;
+  font-family: 'Abel', sans-serif;
+  
+ }
+ .wrapper{
+     display: flex;
+     width: 100%;
+    min-height: 100%; 
+ }
+
+ .fa{
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+    height: 30px;
+    width: 30px;
+}
+.copyright{
+    padding-bottom: 10px;
+}
+.onama{
+    position: fixed;
+   bottom: 0;
+}
+.o-nama{
+    padding-left: 50px;
+    width: 500px;
+    height: 300px;
+}
+.svg2{
+    padding-left: 100px;
+}
+p{
+    
+    height: 300px;
+}
